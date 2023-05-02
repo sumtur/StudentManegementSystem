@@ -4,4 +4,4 @@ remote da kodlar ekledim.
 bazi kodlar yazdim.
 
 burada cakisma olacak.
-
+diger developer ayni satira kod yazdi 
