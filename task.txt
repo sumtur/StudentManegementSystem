@@ -4,5 +4,9 @@ remote da kodlar ekledim.
 bazi kodlar yazdim.
 
 burada cakisma olacak.
+
 nesibe branch im kod yazdi.
+
+
+
 
